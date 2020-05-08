@@ -1,0 +1,42 @@
+.spc{
+text-indent:20px ;
+}
+.spc1{
+    text-indent:40px ;
+    }
+.spc2{
+    text-indent: 65px;
+}
+#sbmt{   
+    width: 15em;
+    height: 15em;
+}
+#hd1{
+    font-size: 3em;
+    color: green;
+}
+div{
+    background-color:turquoise;
+}
+#para{
+    font-size: 2em;
+    color: indigo;
+}
+#anchr{
+    font-size: 3em;
+    color: indigo;
+}
+#addr{
+    vertical-align: text-top;
+}
+body { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #111111;
+}
+
+th, td { 
+    padding: 7px 10px 10px 10px;
+}
+
+
+

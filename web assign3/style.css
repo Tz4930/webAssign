@@ -1,0 +1,359 @@
+
+.header>p{
+    padding: 0.6em;
+    text-align: center;
+    color: white;
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    background-color:royalblue;
+    height: 3em;
+}
+.bt1{
+    padding: 1en;
+    display: inline-block;
+    height: 2.6em;
+   position: absolute;
+   right: 278px;
+   top: 9px;
+   cursor: pointer;
+   font-size: 9pt;
+}
+.bt2{
+    padding: 1en;
+    display: inline-block;
+    height: 2.6em;
+   position: absolute;
+   right: 180px;
+   top: 9px;
+     font-size: 9pt;
+     cursor: pointer;
+    }
+.bt3{
+    padding: 1en;
+    display: inline-block;
+    height: 2.6em;
+   position: absolute;
+   right: 85px;
+   top: 9px;
+   font-size: 9pt;
+   cursor: pointer;
+}
+
+
+.fb{
+    position:absolute;
+    top: 12px;
+    left: 120px;
+    height:4% ;
+    cursor: pointer;
+}
+.twit{
+    position:absolute;
+    top: 10px;
+    left: 155px;
+    height:5% ;
+    cursor: pointer;
+}
+.insta{
+    position:absolute;
+    top: 14px;
+    left: 195px;
+    height:4% ;
+    cursor: pointer;
+}
+.yt{
+    position:absolute;
+    top: 8px;
+    left: 220px;
+    height:6% ;
+    cursor: pointer;
+}
+.wapp{
+    position:absolute;
+    top: 5px;
+    left: 270px;
+    height:7% ;
+    cursor: pointer;
+}
+.navbar{
+    background-color: whitesmoke;
+}
+.navbar>img{
+    
+    height: 45px;
+}
+.navbar>ul>li{
+    display: inline-block;
+    padding-right: 2.5em;   
+     
+}
+li>a:hover{
+    display: block;
+    background-color: royalblue;
+    
+    
+}
+.navbar>ul>li>a{
+    color: rgb(14, 13, 13);
+    display: block;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;  
+}
+ul>li>ul>li{
+    display: none;
+}
+
+.marqee{
+    background-color: whitesmoke;
+    padding: 15px;
+    
+}
+marquee{
+    background-color: royalblue;
+    width: 80%;
+    height: 2em;
+    color: white;
+    text-align: center;
+    font-size: 10pt;
+}
+.introduction{
+
+    background-color: whitesmoke;
+    height: 42em;
+}
+label.blue{
+    
+    color: royalblue;
+    font-size: 32pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+label.green{
+    
+    color: yellowgreen;
+    font-size: 32pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.introduction>center>p{
+    width: 70%;
+    font-size: 13pt;
+    text-align: justify;
+    
+}
+.total{
+    height: 18em;
+    background-color: royalblue;
+    padding: 5em;
+}
+.t1{
+    position: absolute;
+    top: 235%;
+    left: 19%;
+    height: 10%;
+}
+.t2{
+    position: absolute;
+    top: 235%;
+    left: 39%;
+    height: 10%;
+}.t3{
+    position: absolute;
+    top: 235%;
+    left: 59%;
+    height: 10%;
+}.t4{
+    position: absolute;
+    top: 235%;
+    left: 78%;
+    height: 10%;
+}
+.tl{
+    font-size: 30pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 3.2em;
+}
+.tl2{
+    font-size: 13pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 3em;
+}
+
+
+
+
+.work{
+    background-color: whitesmoke;
+    height: 400px;
+}
+.line{
+    display: inline-block;
+    background-color:white;
+    height: 20%;
+    width: 22em;
+    margin: 1.5em;
+    padding: 5em;
+    box-shadow:5px 5px 5px 5px #888888;
+}
+
+.lineTwo{
+    display: inline-block;
+    background-color:white;
+    height: 20%;
+    width: 22em;
+    margin: 1.5em;
+    padding: 5em;
+    box-shadow:5px 5px 5px 5px #888888;
+}
+.line>label{
+    font-size:1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: royalblue;
+}
+.lineTwo>label{
+    font-size:1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: royalblue;
+}
+.upcoming{
+    background-color: white;
+    margin: 3em;
+    color: royalblue;
+    font-weight: bold;
+}
+
+.one{
+ width: 25%;
+ background-color: whitesmoke;
+ padding: 1em;
+ margin: 1em;
+ display: inline-block;
+}
+.two{
+    width: 25%;
+    background-color: whitesmoke;
+    padding: 1em;
+    margin: 1em;
+    display: inline-block;
+   }
+
+.mark{
+    
+   color: black;
+   font-size: 10pt;
+   width: 30%;
+   margin: 2em;
+   height: 35%;
+   position: absolute;
+   right: 3%;
+   top: 430%;
+}
+.images{
+    height: 50%;
+}
+.ima1{
+    position: absolute;
+    height: 30%;
+    
+}
+.ima2{
+    position: absolute;
+    height: 30%;
+    left: 27%;
+}
+.ima3{
+    position: absolute;
+    height: 30%;
+    left: 51%;
+}
+.ima4{
+    position: absolute;
+    height: 30%;
+    left: 75%;
+}
+.lb{
+    position: absolute;
+    top: 430%;
+    left:65%;
+}
+.address{
+   background-color:  #25272E;
+}
+.n1{
+    color: white;
+    padding: 4em;
+    font-size: 10pt;
+    display: inline-block;
+}
+.imge{
+    position: absolute;
+    height: 4%;
+    left: 2%;
+}
+.imge1{
+    
+    position: absolute;
+    height: 4%;
+    left: 15%;
+    
+}
+.n2{
+    display: inline-block;
+    
+    
+}
+.n2>p{
+    color: white;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.n3{
+    display: inline-block;
+    color: white;
+}
+.n3>label{
+    position: absolute;
+    left: 60%;
+}
+.img1{
+    position:absolute;
+    right: 30%;
+    height:5% ;
+    
+}
+.img2{
+    position:absolute;
+    right: 27%;
+    height:5% ;
+    
+}
+.img3{
+    position:absolute;
+    right: 24%;
+    height:5% ;
+    
+}
+.img4{
+    position:absolute;
+    right: 20%;
+    height:5% ;
+    
+}
+
+
+
+.footer{
+    background-color: royalblue;
+   
+    color: white;
+    font-size: 10pt;
+    height: 3%;
+}
